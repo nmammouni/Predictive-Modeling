@@ -1,0 +1,8 @@
+A financial services company offers a home equity 
+line of credit to its clients. The company has 
+extended several thousand lines of credit in the 
+past, and many of these accepted applicants 
+(approximately 20%) have defaulted on their loans. 
+By using geographic, demographic, and financial 
+variables, the company wants to build a model to 
+predict whether an applicant will default
